@@ -20,7 +20,7 @@ model = YOLO("./yolov8n-kitti/train/weights/best.pt")
 app = Flask(__name__)
 
 # MongoDB configuration
-client = MongoClient("mongodb+srv://ridha:CDQ6HaF5_xNnV@karhabti.tn73nb9.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://MySecrets@karhabti.tn73nb9.mongodb.net/?retryWrites=true&w=majority")
 try:
     client.admin.command('ping')
     print("Pinged your deployment. You successfully connected to MongoDB!")
