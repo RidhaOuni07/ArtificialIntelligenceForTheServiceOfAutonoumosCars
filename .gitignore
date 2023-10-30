@@ -1,0 +1,8 @@
+/DataBase/data_object_image_2/training/image_2/*.png
+/DataBase/data_object_image_2/testing/image_2/*.png
+DataBase/data_object_label_2/training/label_2/*.txt 
+DataBase/data_object_label_2/labels_with_dont_care/*.txt
+/train/*.png
+/train/*.txt
+/valid/*.png
+/valid/*.txt

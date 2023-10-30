@@ -1,0 +1,13 @@
+names:
+- Car
+- Pedestrian
+- Van
+- Cyclist
+- Truck
+- Misc
+- Tram
+- Person_sitting
+- DontCare
+nc: 9
+train: D:\WafaMefteh\train
+val: D:\WafaMefteh\valid
